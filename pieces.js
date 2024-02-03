@@ -13,3 +13,6 @@ const knight = '<div class="piece" id="knight"><svg xmlns="http://www.w3.org/200
 
 
 
+
+
+
